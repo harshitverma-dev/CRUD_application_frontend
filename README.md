@@ -2,7 +2,7 @@
 
 A full-fledged CRUD Application using ReactJS, JavaScript for frontend with multiple features(such as sorting, filtering, searching). for backend NodeJS, ExpressJS, MongoDB, This application provides the crud operations such as create, read, update and delete. It is hosted live on the internet.
 
-Live URL: https://mernstack-crud-application.netlify.app/
+Live URL: https://mernstack-crud-application.netlify.app
 
 Frontend Stack: JavaScript, ReactJS, React-bootstrap
 
