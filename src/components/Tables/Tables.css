@@ -1,0 +1,32 @@
+.img_parent img {
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 1px;
+}
+
+.dropdown {
+    margin-left: 0 !important;
+}
+
+.dropdown-toggle {
+    padding: 0;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown_btn {
+    background: none !important;
+    border: none;
+}
+
+.user_data td {
+    vertical-align: middle;
+}
+
+.emptyState td>img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
