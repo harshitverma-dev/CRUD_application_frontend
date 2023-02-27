@@ -1,70 +1,35 @@
 # CRUD_application_frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-fledged CRUD Application using ReactJS, JavaScript for frontend with multiple features(such as sorting, filtering, searching). for backend NodeJS, ExpressJS, MongoDB, This application provides the crud operations such as create, read, update and delete. It is hosted live on the internet.
 
-## Available Scripts
+Live URL: https://mernstack-crud-application.netlify.app/
 
-In the project directory, you can run:
+Frontend Stack: JavaScript, ReactJS, React-bootstrap
 
-### `npm start`
+Homepage of this application >>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="948" alt="crud_app" src="https://user-images.githubusercontent.com/115063708/221421381-bda56a10-b504-41ff-9c26-cd7e2f0e90dc.PNG">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Functionalities >>
 
-### `npm test`
+Filter By Male Gender:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="878" alt="filterByMaleGender" src="https://user-images.githubusercontent.com/115063708/221421663-90e90f38-117b-4615-bca3-f4be2b508d8c.PNG">
 
-### `npm run build`
+Filter By Female Gender:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="886" alt="filterByFemaleGender" src="https://user-images.githubusercontent.com/115063708/221421692-a188fd74-4acb-4f5e-b6d4-795e8fc276b6.PNG">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Filter By Active User:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="908" alt="filterByActiveStatus" src="https://user-images.githubusercontent.com/115063708/221421994-77d84b4d-c349-4405-92e1-9354eda8f633.PNG">
 
-### `npm run eject`
+Filter By InActive User:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="904" alt="filterByInActiveStatus" src="https://user-images.githubusercontent.com/115063708/221422005-3b86bf18-cea9-4a97-ab2b-5272ea16c468.PNG">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Searching:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img width="894" alt="searching" src="https://user-images.githubusercontent.com/115063708/221422258-c8215588-c051-4c95-bbe5-fc70d9183595.PNG">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
